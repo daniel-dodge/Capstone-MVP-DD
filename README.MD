@@ -12,9 +12,9 @@ User will be able to:
 - Directly message other users
 
 ### *Pages*
--Landing page (login)
--Home page that shows the users feed
--Single user view page 
--Direct Messages page (or possibly could be implemented into the home page as a sidebar tab or something)
--Create post page (also could be implemented onto home page)
+- Landing page (login)
+- Home page that shows the users feed
+- Single user view page 
+- Direct Messages page (or possibly could be implemented into the home page as a sidebar tab or something)
+- Create post page (also could be implemented onto home page)
 

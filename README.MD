@@ -1,5 +1,7 @@
-## *Instagram Clone*
+# *Instagram Clone*
 
+## *Description*
+This project will replicate (most) features and styling used by Instagram, and will be built out using React.
 
 ### *MVP*
 User will be able to:
